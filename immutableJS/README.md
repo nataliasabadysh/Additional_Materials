@@ -1,6 +1,6 @@
-# Иммутабельность
+# Immutable collections for JavaScript
 
-Материалы для дополнительного обучения:
+Doc
 
 -   [Что такое 'Mutable'](https://developer.mozilla.org/en-US/docs/Glossary/Mutable)
 -   [Что такое «иммутабельность»?](https://www.sitepoint.com/immutability-javascript/)
